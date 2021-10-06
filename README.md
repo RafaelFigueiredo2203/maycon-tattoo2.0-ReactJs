@@ -29,13 +29,13 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Firebase](https://firebase.google.com/docs)
+- [SASS](https://sass-lang.com/)
+
 
 
 ## 💻 Projeto
 
-Filmaria é uma aplicação  para você escolher,assistir e salvar seus filmes .
+Site de tatuagem para meu amigo tatuador Maycon Mendes .
 
 
 
