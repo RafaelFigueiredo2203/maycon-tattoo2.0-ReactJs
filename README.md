@@ -9,7 +9,7 @@
 
 
   <img src="https://user-images.githubusercontent.com/60237326/136127926-47f979c7-04a7-42a7-960c-ba5b06b15954.png"/>
-  <img src="https://user-images.githubusercontent.com/60237326/136128105-7efc492f-f828-4b5d-9202-e5f0a36e8173.png"/>
+  <img rounded="5" src="https://user-images.githubusercontent.com/60237326/136128105-7efc492f-f828-4b5d-9202-e5f0a36e8173.png"/>
 
 
   
